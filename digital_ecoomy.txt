@@ -17,3 +17,12 @@ On the other hand and pursuant to article 106 of the Security Market Law and its
 
 Identify the regulatory framework and institutions that affect the digital economy
 With respect to the frameworks about digital economy in Mexico’s fintech law mainly regulates two types of companies: electronic payment institutions (EPIs, or what other countries call "electronic money issuers") and crowdfunding institutions. Under the law, both types of institutions are permitted to operate with virtual assets (e.g., cryptocurrencies) that are authorized by Bank of Mexico. The law also introduces a regulatory regime for open banking. As such, the law covers only two types of fintech companies from the universe of fintech players that are not addressed by the Mexican regulatory system. It does not provide regulatory guidance for other technology-enabled innovations in financial services, such as fintech’s offering balance sheet lending, big tech companies launching financial services, investment services other than crowdfunding, or central bank digital currencies.
+
+
+References
+
+
+https://cms.law/en/int/expert-guides/cms-expert-guide-to-data-protection-and-cyber-security-laws/mexico
+https://www.cgap.org/blog/mexicos-fintech-law-leading-new-trend-fintech-regulation
+https://iclg.com/practice-areas/cybersecurity-laws-and-regulations/mexico
+
