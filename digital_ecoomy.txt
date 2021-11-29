@@ -1,0 +1,11 @@
+Describe the existing regulation in Employment, Ethics, politics, and the data science related regulation. 
+
+
+In Mexico, the main data protection legislation is the Federal Law on the Protection of Personal Data Held by Private Parties, and its supplementary regulation, together they are part of the “Data Protection Legislation”. The Data Protection Law came into force in july 2020 and the Data Protection Regulation came into force in December 2011. Other relevant legislation containing data protection provisions includes:
+Articles 6 to 16 of the Mexican Constitution
+The Privacy Notice Guidelines, which govern the content of data privacy notices and obtaining consent for processing personal data.
+The General Law for the Protection of Personal Data in Possession of Obligated Subjects governs personal data held by public bodies;
+The Federal Consumer Protection Law governs certain aspects concerning marketing services.
+
+Furthermore, Mexico is a signatory of international agreements on Data Protection , like the Convention for the Protection of the People Regarding the Automated Treatment of Personal Information. 
+Globally, the General Data Protection Regulation (GDPR) requires security measures for processing data relating to an identified or identifiable individual located in the European Union, . 
